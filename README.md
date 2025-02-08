@@ -1,6 +1,6 @@
 # A01208933_A5.2
 
-###Compute Sales
+### Compute Sales
 Este script en Python calcula el total de ventas de una empresa a partir de un catálogo de productos y un registro de ventas, ambos en formato JSON.
 
 Características
